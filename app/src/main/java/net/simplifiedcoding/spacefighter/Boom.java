@@ -8,6 +8,7 @@ import android.graphics.BitmapFactory;
  * Created by Belal on 6/15/2016.
  */
 public class Boom {
+    //for(int i=0;i<10;i++){
 
     //bitmap object
     private Bitmap bitmap;
