@@ -9,7 +9,7 @@ import android.graphics.BitmapFactory;
  */
 public class Boom {
     //for(int i=0;i<10;i++){
-
+//this is nothinh
     //bitmap object
     private Bitmap bitmap;
 
